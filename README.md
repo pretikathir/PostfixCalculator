@@ -1,4 +1,4 @@
-# Postfix expression evaluator for CSV files
+# Postfix expression calculator for CSV files
 
 ## To run:
 
